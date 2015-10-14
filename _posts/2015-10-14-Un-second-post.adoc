@@ -2,4 +2,4 @@
 
 Blablabla bla...
 
-:hp-tags: lolo
+:hp-tags: lolo, blog

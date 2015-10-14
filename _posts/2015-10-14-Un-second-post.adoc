@@ -2,4 +2,4 @@
 
 Blablabla...
 
-:hp-tags: HubPress, Blog
+:hp-tags: HubPress, blog

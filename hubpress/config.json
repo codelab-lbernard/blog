@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "codelab-lbernard",
-    "repositoryName": "blog",
-    "branch": "gh-pages"
-  },
-  "theme": {
-    "name": "Casper"
-  }
-}
+{"meta":{"username":"codelab-lbernard","repositoryName":"blog","branch":"gh-pages"},"site":{"title":"Le blog de lbernard","description":"Ma description","postsPerPage":"5","url":"https://codelab-lbernard.github.io/blog"},"socialnetwork":{},"theme":{"name":"Casper","url":"//codelab-lbernard.github.io/blog/themes/Casper"}}

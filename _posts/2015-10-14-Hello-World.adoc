@@ -2,6 +2,6 @@
 
 This is my new blog !
 
-image::simon.JPG[]
+image::https://codelab-lbernard.github.io/blog/images/simon.JPG[]
 
 

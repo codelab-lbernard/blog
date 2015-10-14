@@ -1,5 +1,3 @@
 = Un troisième post
 
 Coucou !
-
-:hp-tags: blog, lili

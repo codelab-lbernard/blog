@@ -2,5 +2,6 @@
 
 This is my new blog !
 
-image::simon.JPG[]
+image::blog/simon.JPG[]
+
 

@@ -1,7 +1,7 @@
 = Hello World !
 
-This is my new blog !
+This is my new blog !!!
 
 image::https://codelab-lbernard.github.io/blog/images/simon.JPG[]
 
-:hp-tags: blog, lili, lolo
+:hp-tags: blog, lili, lolo, lulu

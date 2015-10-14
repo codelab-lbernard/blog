@@ -2,4 +2,4 @@
 
 Coucou !
 
-:hp-tags: Blog
+:hp-tags: blog

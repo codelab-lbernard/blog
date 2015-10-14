@@ -2,4 +2,4 @@
 
 Coucou !
 
-:hp-tags: blog
+:hp-tags: blog, lili

@@ -1,5 +1,5 @@
 = Un second post
 
-:hp-tags: HubPress, Blog,
-
 Blablabla...
+
+:hp-tags: HubPress, Blog,
